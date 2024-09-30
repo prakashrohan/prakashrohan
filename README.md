@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Prakash</h1>
 
 # 💫 About Me:
-💻 Native iOS Developer <br>🌍 Passionate about building apps that solve real-world problems.<br>🏆 Selected for the GDSC India Regional Bootcamp; led a blockchain scanner app project.<br>🤝 Actively expanding my network—let's connect and collaborate!
+💻 Native iOS Developer <br>🌍 Passionate about building apps that solve real-world problems.<br>🤝 Actively expanding my network—let's connect and collaborate!
 
 
 ## 🌐 Socials:
