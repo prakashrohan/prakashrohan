@@ -23,7 +23,7 @@
 
 <h2 style="margin-bottom: 20px;">🌐 Socials:</h2>
 <p style="margin-bottom: 20px;">
-  <a href="https://linkedin.com/in/rohan-prakash" target="_blank">
+  <a href="https://www.linkedin.com/in/rohan-prakash-b61112286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:push.rohan16@gmail.com" target="_blank">
+  <a href="mailto:pksh.rohan16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
